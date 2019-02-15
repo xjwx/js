@@ -31,3 +31,13 @@ img {
   display: block;
   margin: 0 auto;
 }
+
+.ImageSize{
+  display:flex;
+  align-items:center;
+  justify-content:center;
+}
+.ImageSize img{
+  width:100%;
+  height:auto;
+}
